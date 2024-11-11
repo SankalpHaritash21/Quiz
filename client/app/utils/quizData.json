@@ -1,0 +1,188 @@
+{
+  "quizCategories": [
+    {
+      "category": "1. Science",
+      "subcategories": [
+        {
+          "subcategory": "1.1 Science Quiz",
+          "questions": [
+            {
+              "id": 1,
+              "question": "What is the chemical symbol for water?",
+              "options": ["O2", "H2O", "CO2", "H2O2"],
+              "answer": "H2O"
+            },
+            {
+              "id": 2,
+              "question": "What planet is known as the Red Planet?",
+              "options": ["Mars", "Venus", "Earth", "Jupiter"],
+              "answer": "Mars"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "2. Math",
+      "subcategories": [
+        {
+          "subcategory": "2.1 Math Quiz",
+          "questions": [
+            {
+              "id": 1,
+              "question": "What is sin(0)?",
+              "options": ["0", "1", "-1", "Undefined"],
+              "answer": "0"
+            },
+            {
+              "id": 2,
+              "question": "What is 2 + 2?",
+              "options": ["3", "4", "5", "6"],
+              "answer": "4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "3. Economics",
+      "subcategories": [
+        {
+          "subcategory": "3.1 Economics Quiz",
+          "questions": [
+            {
+              "id": 1,
+              "question": "What is the primary function of the Central Bank?",
+              "options": [
+                "To issue currency",
+                "To regulate interest rates",
+                "To provide loans",
+                "All of the above"
+              ],
+              "answer": "All of the above"
+            },
+            {
+              "id": 2,
+              "question": "What does GDP stand for?",
+              "options": [
+                "Gross Domestic Product",
+                "Global Demand Price",
+                "Gross Demand Product",
+                "General Domestic Price"
+              ],
+              "answer": "Gross Domestic Product"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "4. General Knowledge",
+      "subcategories": [
+        {
+          "subcategory": "4.1 General Knowledge Quiz",
+          "questions": [
+            {
+              "id": 1,
+              "question": "What is the capital of Japan?",
+              "options": ["Tokyo", "Beijing", "Seoul", "Bangkok"],
+              "answer": "Tokyo"
+            },
+            {
+              "id": 2,
+              "question": "Who is known as the 'Father of Computers'?",
+              "options": [
+                "Alan Turing",
+                "Charles Babbage",
+                "Bill Gates",
+                "Steve Jobs"
+              ],
+              "answer": "Charles Babbage"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "5. History",
+      "subcategories": [
+        {
+          "subcategory": "5.1 History Quiz",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Who was the first President of the United States?",
+              "options": [
+                "Abraham Lincoln",
+                "Thomas Jefferson",
+                "George Washington",
+                "John Adams"
+              ],
+              "answer": "George Washington"
+            },
+            {
+              "id": 2,
+              "question": "In which year did World War II end?",
+              "options": ["1945", "1944", "1943", "1942"],
+              "answer": "1945"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "6. Geography",
+      "subcategories": [
+        {
+          "subcategory": "6.1 Geography Quiz",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which is the largest continent by area?",
+              "options": ["Asia", "Africa", "North America", "Europe"],
+              "answer": "Asia"
+            },
+            {
+              "id": 2,
+              "question": "Which country has the largest population?",
+              "options": ["India", "China", "United States", "Indonesia"],
+              "answer": "China"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "7. Technology",
+      "subcategories": [
+        {
+          "subcategory": "7.1 Technology Quiz",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Who invented the World Wide Web?",
+              "options": [
+                "Bill Gates",
+                "Steve Jobs",
+                "Tim Berners-Lee",
+                "Mark Zuckerberg"
+              ],
+              "answer": "Tim Berners-Lee"
+            },
+            {
+              "id": 2,
+              "question": "What does CPU stand for?",
+              "options": [
+                "Central Processing Unit",
+                "Central Program Unit",
+                "Computer Processing Unit",
+                "Central Peripheral Unit"
+              ],
+              "answer": "Central Processing Unit"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
